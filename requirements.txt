@@ -1,0 +1,10 @@
+flask
+gradio
+pillow
+torch
+transformers
+sentencepiece
+accelerate
+llama-cpp-python
+gpt4all
+
